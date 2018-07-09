@@ -1,0 +1,9 @@
+@media (max-width: 400px) {
+	.input-field {
+		width: 100%;
+	}
+	
+	.list-container > .field {
+		font-size: .6em;
+	}
+}
